@@ -1,0 +1,60 @@
+
+#menuIcon
+{
+    height: 30px;
+    width: 30px;
+    position: fixed;
+    left: 47%;
+}
+
+.navbar
+{
+    border-bottom: 2.5px solid cornflowerblue;
+    background: url(../../IMG/banner1.png) white  90% no-repeat;
+
+    opacity: 0.7;
+}
+
+.navbar:hover
+{
+    border-bottom: 2.5px ridge cornflowerblue;
+    background: url(../../IMG/banner1.png) white  90% no-repeat;
+    opacity: 1;
+}
+
+.nav-link
+{
+    color: cornflowerblue;
+    font-weight: 600;
+}
+
+.nav-link:hover
+{
+    font-style: italic;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.dropdown-menu
+{
+    box-shadow: 1px 2px dimgray;
+    border-color: cornflowerblue;
+    border-width: 2px;
+}
+
+
+.dropdown-item
+{
+    color: cornflowerblue;
+    font-weight: 500;
+    font-family: serif;
+}
+
+.dropdown-item:hover
+{
+    font-family: serif;
+    font-style: italic;
+    color: cornflowerblue;
+    font-weight: 500;
+    background: antiquewhite;
+}

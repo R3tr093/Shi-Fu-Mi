@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'telegrama';
+    src: url('../SHI-FU-MI/FONT/telegrama_raw.otf');
+   
+}
+
+#r1
+{
+    margin-top: 60px;
+}
+#banner
+{
+    min-height: 150px;
+        height: 175px;
+    max-height: 200px;
+    margin-top: 58px;
+}
+.resume
+{
+    font-family: serif;
+    font-style: italic;
+    font-weight: bold;
+}
+.test
+{
+
+    margin-right: 2%;
+    margin-top: 8px;
+    
+}
+#cpuIcon
+{
+    margin-left: 50%;
+    max-width: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+#playerIcon
+{
+     margin-left: 50%;
+     max-width: 50px;
+     margin-top: 25px;
+     margin-bottom: 25px;
+}
+#result
+{
+
+    font-family: telegrama;
+    text-shadow:  1px 1px 2px grey;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#info
+{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-family: telegrama;
+    text-shadow:  1px 1px 2px grey;
+}
+
+#PlayerElt
+{
+    padding: 12px;
+    border: 2px solid cornflowerblue;
+    border-radius: 12px;
+    box-shadow: 2px 2px grey;
+}
+
+#CPUElt
+{
+    padding: 12px;
+    border: 2px solid cornflowerblue;
+    border-radius: 12px;
+}
+
+p
+{
+    text-align: center;
+}

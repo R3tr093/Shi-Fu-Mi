@@ -1,0 +1,9 @@
+#wrapCons
+{
+    position: fixed;
+    top: 110%;
+    padding: 10px;
+    text-align: center;
+    font-style: italic;
+    font-family: cursive, inherit, serif;
+}
